@@ -14,7 +14,7 @@ This project is a simple implementation of the classic Tic-Tac-Toe game built us
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/tic-tac-toe.git
+    git clone https://github.com/VictorPersona/tic-tac-toe.git
     cd tic-tac-toe
     ```
 
